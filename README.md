@@ -1,4 +1,4 @@
-# KNN
+# KNN Algorithm
 ## Repo coding challenge at Insight Data Science 2020A
 Coding KNN algorithm with k-fold cross-validation from scratch with minimal use of Python libraries. Coding challenge was to be completed in 1.5 hours.
 ## Table of content
