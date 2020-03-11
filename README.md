@@ -5,5 +5,3 @@ Coding KNN algorithm from scratch with minimal use of Python libraries. Coding c
 1. `knn.py`: Class KNN
 2. `run.py`: Run the code
 3. `results /`: Results
-## Results
-![alt text](https://github.com/ab5163/K_Means_Clustering/blob/master/results/K_means_clustering.png)
