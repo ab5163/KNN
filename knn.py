@@ -11,7 +11,7 @@ class KNN:
         
     # load a csv file
     def load_csv(self, filename):
-        with open('C:/Users/Akim Borbuev/Documents/Insight/CS Practicals/KNN algorithm/iris.csv', 'r') as csvfile:
+        with open(filename, 'r') as csvfile:
             lines = csv.reader(csvfile, delimiter = ',')
             rows = list()
             for row in lines:
